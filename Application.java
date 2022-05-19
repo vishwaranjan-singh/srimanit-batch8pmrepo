@@ -15,6 +15,15 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+
+	#changes added by vishwaranjan
+	 float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+
 	##hsbc201 changes added by prakash
 	System.out.println("Enter two numbers");
     int first = 10;
@@ -25,4 +34,5 @@ public class HelloWorld {
     // add two numbers
     int sum = first + second;
     System.out.println("The sum is: " + sum);
+
 }
